@@ -1,0 +1,11 @@
+C:\Users\afshi\Desktop\RokuRemote-master\RokuRemote\RokuRemote\bin\Release\RokuRemote.exe.config
+C:\Users\afshi\Desktop\RokuRemote-master\RokuRemote\RokuRemote\bin\Release\RokuRemote.exe
+C:\Users\afshi\Desktop\RokuRemote-master\RokuRemote\RokuRemote\bin\Release\RokuRemote.pdb
+C:\Users\afshi\Desktop\RokuRemote-master\RokuRemote\RokuRemote\bin\Release\RokuRemote.xml
+C:\Users\afshi\Desktop\RokuRemote-master\RokuRemote\RokuRemote\obj\Release\RokuRemote.frmMain.resources
+C:\Users\afshi\Desktop\RokuRemote-master\RokuRemote\RokuRemote\obj\Release\RokuRemote.Resources.resources
+C:\Users\afshi\Desktop\RokuRemote-master\RokuRemote\RokuRemote\obj\Release\RokuRemote.vbproj.GenerateResource.Cache
+C:\Users\afshi\Desktop\RokuRemote-master\RokuRemote\RokuRemote\obj\Release\RokuRemote.vbproj.CoreCompileInputs.cache
+C:\Users\afshi\Desktop\RokuRemote-master\RokuRemote\RokuRemote\obj\Release\RokuRemote.exe
+C:\Users\afshi\Desktop\RokuRemote-master\RokuRemote\RokuRemote\obj\Release\RokuRemote.xml
+C:\Users\afshi\Desktop\RokuRemote-master\RokuRemote\RokuRemote\obj\Release\RokuRemote.pdb

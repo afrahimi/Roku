@@ -1,0 +1,42 @@
+C:\Users\sjoanis\AppData\Local\Temporary Projects\RokuRemote\bin\Debug\RokuRemote.exe.config
+C:\Users\sjoanis\AppData\Local\Temporary Projects\RokuRemote\bin\Debug\RokuRemote.exe
+C:\Users\sjoanis\AppData\Local\Temporary Projects\RokuRemote\bin\Debug\RokuRemote.pdb
+C:\Users\sjoanis\AppData\Local\Temporary Projects\RokuRemote\bin\Debug\RokuRemote.xml
+C:\Users\sjoanis\AppData\Local\Temporary Projects\RokuRemote\obj\Debug\RokuRemote.WebRequestPOST.resources
+C:\Users\sjoanis\AppData\Local\Temporary Projects\RokuRemote\obj\Debug\RokuRemote.Resources.resources
+C:\Users\sjoanis\AppData\Local\Temporary Projects\RokuRemote\obj\Debug\RokuRemote.vbproj.GenerateResource.Cache
+C:\Users\sjoanis\AppData\Local\Temporary Projects\RokuRemote\obj\Debug\RokuRemote.exe
+C:\Users\sjoanis\AppData\Local\Temporary Projects\RokuRemote\obj\Debug\RokuRemote.xml
+C:\Users\sjoanis\AppData\Local\Temporary Projects\RokuRemote\obj\Debug\RokuRemote.pdb
+C:\Users\sjoanis\Documents\Visual Studio 2013\Projects\RokuRemote\RokuRemote\bin\Debug\RokuRemote.exe.config
+C:\Users\sjoanis\Documents\Visual Studio 2013\Projects\RokuRemote\RokuRemote\obj\Debug\RokuRemote.exe
+C:\Users\sjoanis\Documents\Visual Studio 2013\Projects\RokuRemote\RokuRemote\obj\Debug\RokuRemote.xml
+C:\Users\sjoanis\Documents\Visual Studio 2013\Projects\RokuRemote\RokuRemote\obj\Debug\RokuRemote.pdb
+C:\Users\sjoanis\Documents\Visual Studio 2013\Projects\RokuRemote\RokuRemote\bin\Debug\RokuRemote.exe
+C:\Users\sjoanis\Documents\Visual Studio 2013\Projects\RokuRemote\RokuRemote\bin\Debug\RokuRemote.pdb
+C:\Users\sjoanis\Documents\Visual Studio 2013\Projects\RokuRemote\RokuRemote\bin\Debug\RokuRemote.xml
+C:\Users\sjoanis\Documents\Visual Studio 2013\Projects\RokuRemote\RokuRemote\obj\Debug\RokuRemote.Resources.resources
+C:\Users\sjoanis\Documents\Visual Studio 2013\Projects\RokuRemote\RokuRemote\obj\Debug\RokuRemote.vbproj.GenerateResource.Cache
+C:\Users\sjoanis\Documents\Visual Studio 2013\Projects\RokuRemote\RokuRemote\obj\Debug\RokuRemote.Form1.resources
+C:\Users\Administrator.SJOANIS-LT7d\Documents\Visual Studio 2013\Projects\RokuRemote\RokuRemote\bin\Debug\RokuRemote.exe.config
+C:\Users\Administrator.SJOANIS-LT7d\Documents\Visual Studio 2013\Projects\RokuRemote\RokuRemote\obj\Debug\RokuRemote.exe
+C:\Users\Administrator.SJOANIS-LT7d\Documents\Visual Studio 2013\Projects\RokuRemote\RokuRemote\obj\Debug\RokuRemote.xml
+C:\Users\Administrator.SJOANIS-LT7d\Documents\Visual Studio 2013\Projects\RokuRemote\RokuRemote\obj\Debug\RokuRemote.pdb
+C:\Users\Administrator.SJOANIS-LT7d\Documents\Visual Studio 2013\Projects\RokuRemote\RokuRemote\bin\Debug\RokuRemote.exe
+C:\Users\Administrator.SJOANIS-LT7d\Documents\Visual Studio 2013\Projects\RokuRemote\RokuRemote\bin\Debug\RokuRemote.pdb
+C:\Users\Administrator.SJOANIS-LT7d\Documents\Visual Studio 2013\Projects\RokuRemote\RokuRemote\bin\Debug\RokuRemote.xml
+C:\Users\Administrator.SJOANIS-LT7d\Documents\Visual Studio 2013\Projects\RokuRemote\RokuRemote\obj\Debug\RokuRemote.Form1.resources
+C:\Users\Administrator.SJOANIS-LT7d\Documents\Visual Studio 2013\Projects\RokuRemote\RokuRemote\obj\Debug\RokuRemote.Resources.resources
+C:\Users\Administrator.SJOANIS-LT7d\Documents\Visual Studio 2013\Projects\RokuRemote\RokuRemote\obj\Debug\RokuRemote.vbproj.GenerateResource.Cache
+C:\Users\afshi\Desktop\RokuRemote-master\RokuRemote\RokuRemote\bin\Debug\RokuRemote.exe.config
+C:\Users\afshi\Desktop\RokuRemote-master\RokuRemote\RokuRemote\bin\Debug\RokuRemote.exe
+C:\Users\afshi\Desktop\RokuRemote-master\RokuRemote\RokuRemote\bin\Debug\RokuRemote.pdb
+C:\Users\afshi\Desktop\RokuRemote-master\RokuRemote\RokuRemote\bin\Debug\RokuRemote.xml
+C:\Users\afshi\Desktop\RokuRemote-master\RokuRemote\RokuRemote\obj\Debug\RokuRemote.Resources.resources
+C:\Users\afshi\Desktop\RokuRemote-master\RokuRemote\RokuRemote\obj\Debug\RokuRemote.vbproj.GenerateResource.Cache
+C:\Users\afshi\Desktop\RokuRemote-master\RokuRemote\RokuRemote\obj\Debug\RokuRemote.vbproj.CoreCompileInputs.cache
+C:\Users\afshi\Desktop\RokuRemote-master\RokuRemote\RokuRemote\obj\Debug\RokuRemote.exe
+C:\Users\afshi\Desktop\RokuRemote-master\RokuRemote\RokuRemote\obj\Debug\RokuRemote.xml
+C:\Users\afshi\Desktop\RokuRemote-master\RokuRemote\RokuRemote\obj\Debug\RokuRemote.pdb
+C:\Users\afshi\Desktop\RokuRemote-master\RokuRemote\RokuRemote\obj\Debug\RokuRemote.vbprojResolveAssemblyReference.cache
+C:\Users\afshi\Desktop\RokuRemote-master\RokuRemote\RokuRemote\obj\Debug\RokuRemote.frmMain.resources
